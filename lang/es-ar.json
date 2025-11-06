@@ -1,1 +1,7 @@
-{}
+{
+    "IPtoCompany": {
+        "Device": "Dispositivo",
+        "LastVisit": "Última visita",
+        "Type": "Tipo"
+    }
+}
